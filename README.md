@@ -1,1 +1,2 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "Get Started" at https://bookdown.org/home/about/ for how to compile this example.
+Notas de aula do curso de graduação de Introdução à Análise Combinatória, Probabilidades e Aplicações.
+Ministrado no Programa de Verão do IME USP, em 2021 e 2023.

@@ -2,12 +2,15 @@
 title: "Análise Combinatória, Probabilidade e Aplicações"
 author: "Magno T F Severino"
 date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
+output: pdf_document
 documentclass: book
-bibliography: [book.bib, packages.bib]
+bibliography:
+- book.bib
+- packages.bib
 biblio-style: apalike
 link-citations: yes
-description: "Notas de aula da disciplina."
+description: Notas de aula da disciplina.
+site: bookdown::bookdown_site
 ---
 
 <!-- \newtheorem{definition}{Definição} -->
